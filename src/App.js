@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <h1>Hello world</h1>
         <Person name="Max" age="29"/>
-        <Person name="Manu" age="28"/>
+        <Person name="Manu" age="28">My Hobbies: Racing</Person>
         <Person name="Staphanie" age="27"/>
       </div>
     );
